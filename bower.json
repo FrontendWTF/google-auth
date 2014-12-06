@@ -1,0 +1,18 @@
+{
+  "name": "google-auth",
+  "main": "google-auth.js",
+  "authors": [
+    "L42y <423300@gmail.com>"
+  ],
+  "keywords": [
+    "angular",
+    "google",
+    "auth",
+    "authentication"
+  ],
+  "license": "WTFPL",
+  "homepage": "https://github.com/FrontendWTF/google-auth",
+  "dependencies": {
+    "google-platform": "FrontendWTF/google-platform#~0.1.0"
+  }
+}
